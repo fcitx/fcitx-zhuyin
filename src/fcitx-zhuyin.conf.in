@@ -1,0 +1,10 @@
+[Addon]
+Name=fcitx-zhuyin
+_GeneralName=LibPinyin
+_Comment=LibPinyin Wrapper For Fcitx
+Category=InputMethod
+Enabled=True
+Library=fcitx-zhuyin.so
+Type=SharedLibrary
+IMRegisterMethod=ConfigFile
+SubConfig=fcitx-zhuyin:domain

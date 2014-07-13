@@ -1,0 +1,13 @@
+#ifndef FCITX_LIBZHUYIN_COMMON_H
+#define FCITX_LIBZHUYIN_COMMON_H
+
+enum LIBZHUYIN_DICT_TYPE {
+    LPDT_USER,
+    LPDT_IMPORT,
+    LPDT_ALL,
+};
+
+#define FCITX_LIBZHUYIN_PATH "/zhuyin"
+#define FCITX_LIBZHUYIN_INTERFACE "org.fcitx.Fcitx.LibPinyin"
+
+#endif // FCITX_LIBZHUYIN_COMMON_H

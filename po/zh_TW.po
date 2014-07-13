@@ -1,0 +1,266 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Alisha <alisha.4m@gmail.com>, 2012
+# Hiunn_Hue <hiunnhue108@ymail.com>, 2012
+# Xuetian Weng <wengxt@gmail.com>, 2012-2013
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2014-07-13 02:07-0400\n"
+"PO-Revision-Date: 2013-06-28 04:09+0000\n"
+"Last-Translator: Xuetian Weng <wengxt@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/"
+"language/zh_TW/)\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/fcitx-zhuyin.desc:29
+msgid "Alt"
+msgstr "Alt"
+
+#: src/fcitx-zhuyin.desc:49 src/fcitx-zhuyin.desc:54 src/fcitx-zhuyin.desc:59
+#: src/fcitx-zhuyin.desc:64 src/fcitx-zhuyin.desc:69 src/fcitx-zhuyin.desc:74
+#: src/fcitx-zhuyin.desc:79 src/fcitx-zhuyin.desc:84 src/fcitx-zhuyin.desc:89
+#: src/fcitx-zhuyin.desc:94
+msgid "Ambiguity"
+msgstr "模糊音"
+
+#: src/fcitx-zhuyin.desc:85
+msgid "An <-> Ang"
+msgstr "An <-> Ang"
+
+#: src/eim.cpp:676 src/zhuyin.conf.in:3
+msgid "Bopomofo"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:50
+msgid "Ci <-> Chi"
+msgstr "Ci <-> Chi"
+
+#: src/fcitx-zhuyin.desc:28
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: src/fcitx-zhuyin.desc:90
+msgid "En <-> Eng"
+msgstr "En <-> Eng"
+
+#: src/fcitx-zhuyin.desc:17
+msgid "Eten"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:18
+msgid "Eten26"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:70
+msgid "Fo <-> He"
+msgstr "Fo <-> He"
+
+#: src/fcitx-zhuyin.desc:80
+msgid "Ge <-> Ke"
+msgstr "Ge <-> Ke"
+
+#: src/fcitx-zhuyin.desc:16
+msgid "GinYieh"
+msgstr "精業"
+
+#: src/fcitx-zhuyin.desc:19
+msgid "Hsu"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:21
+msgid "Hsu Dvorak"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:15
+msgid "IBM"
+msgstr "IBM"
+
+#: src/fcitx-zhuyin.desc:95
+msgid "In <-> Ing"
+msgstr "In <-> Ing"
+
+#: src/fcitx-zhuyin.desc:75
+msgid "Le <-> Ri"
+msgstr "Le <-> Ri"
+
+#: src/fcitx-zhuyin.conf.in:3
+msgid "LibPinyin"
+msgstr "LibPinyin"
+
+#: src/fcitx-zhuyin.conf.in:4
+msgid "LibPinyin Wrapper For Fcitx"
+msgstr "Fcitx 的 LibPinyin 封装"
+
+#: src/fcitx-zhuyin.desc:65
+msgid "Ne <-> Le"
+msgstr "Ne <-> Le"
+
+#: src/fcitx-zhuyin.desc:30
+msgid "Shift"
+msgstr "Shift"
+
+#: src/fcitx-zhuyin.desc:60
+msgid "Si <-> Shi"
+msgstr "Si <-> Shi"
+
+#: src/fcitx-zhuyin.desc:14
+msgid "Standard"
+msgstr "標準"
+
+#: src/fcitx-zhuyin.desc:20
+#, fuzzy
+msgid "Standard Dvorak"
+msgstr "標準"
+
+#: src/fcitx-zhuyin.desc:7
+msgid "Use Incomplete Zhuyin"
+msgstr "使用不完整注音"
+
+#: src/fcitx-zhuyin.desc:45
+msgid "Use Simplified Chinese Data for Zhuyin (Need Restart)"
+msgstr "注音使用簡體中文資料 (需要重新啟動)"
+
+#: src/fcitx-zhuyin.desc:2
+msgid "Use Tone"
+msgstr "使用聲調"
+
+#: src/fcitx-zhuyin.desc:1 src/fcitx-zhuyin.desc:6 src/fcitx-zhuyin.desc:11
+#: src/fcitx-zhuyin.desc:25 src/fcitx-zhuyin.desc:34 src/fcitx-zhuyin.desc:39
+#: src/fcitx-zhuyin.desc:44
+msgid "Zhuyin"
+msgstr "注音"
+
+#: src/fcitx-zhuyin.desc:12
+msgid "Zhuyin Layout"
+msgstr "注音佈局"
+
+#: src/fcitx-zhuyin.desc:40
+msgid "Zhuyin Next Page"
+msgstr "注音下一頁"
+
+#: src/fcitx-zhuyin.desc:35
+msgid "Zhuyin Prev Page"
+msgstr "注音上一頁"
+
+#: src/fcitx-zhuyin.desc:26
+#, fuzzy
+msgid "Zhuyin candidate choosing modifiers (Not used for Eten26)"
+msgstr "注音候選詞修飾鍵"
+
+#: src/fcitx-zhuyin.desc:55
+msgid "Zi <-> Zhi"
+msgstr "Zi <-> Zhi"
+
+#~ msgid "ABC"
+#~ msgstr "智能ABC"
+
+#~ msgid "Art"
+#~ msgstr "藝術"
+
+#~ msgid "Bopomofo (LibPinyin)"
+#~ msgstr "注音（LibPinyin）"
+
+#~ msgid "Correction"
+#~ msgstr "糾正"
+
+#~ msgid "Culture"
+#~ msgstr "文化"
+
+#~ msgid "Dictionary"
+#~ msgstr "辭典"
+
+#~ msgid "ET"
+#~ msgstr "倚天"
+
+#~ msgid "Economy"
+#~ msgstr "經濟"
+
+#~ msgid "GN -> NG"
+#~ msgstr "GN -> NG"
+
+#~ msgid "Geology"
+#~ msgstr "地質學"
+
+#~ msgid "History"
+#~ msgstr "歷史"
+
+#~ msgid "IOU -> IU"
+#~ msgstr "IOU -> IU"
+
+#~ msgid "Life"
+#~ msgstr "生活"
+
+#~ msgid "MG -> NG"
+#~ msgstr "MG -> NG"
+
+#~ msgid "Microsoft"
+#~ msgstr "微軟"
+
+#~ msgid "Nature"
+#~ msgstr "自然"
+
+#~ msgid "ON -> ONG"
+#~ msgstr "ON -> ONG"
+
+#~ msgid "Pinyin"
+#~ msgstr "拼音"
+
+#~ msgid "Pinyin (LibPinyin)"
+#~ msgstr "拼音（LibPinyin）"
+
+#~ msgid "PinyinJiaJia"
+#~ msgstr "拼音加加"
+
+#~ msgid "Science & Technology"
+#~ msgstr "科學技術"
+
+#~ msgid "Shuangpin"
+#~ msgstr "雙拼"
+
+#~ msgid "Shuangpin (LibPinyin)"
+#~ msgstr "雙拼（LibPinyin）"
+
+#~ msgid "Shuangpin Scheme"
+#~ msgstr "雙拼機制"
+
+#~ msgid "Society"
+#~ msgstr "社會"
+
+#~ msgid "Sport"
+#~ msgstr "運動"
+
+#~ msgid "UE -> VE"
+#~ msgstr "UE -> VE"
+
+#~ msgid "UEI -> UI"
+#~ msgstr "UEI -> UI"
+
+#~ msgid "UEN -> UN"
+#~ msgstr "UEN -> UN"
+
+#~ msgid "Use Incomplete pinyin"
+#~ msgstr "使用不完整拼音"
+
+#~ msgid "Use Traditional Chinese Data for Pinyin and Shuangpin (Need Restart)"
+#~ msgstr "拼音和雙拼使用正體中文資料 (需要重新啟動)"
+
+#~ msgid "V -> U"
+#~ msgstr "V -> U"
+
+#~ msgid "XiaoHe"
+#~ msgstr "小鶴"
+
+#~ msgid "ZiGuang"
+#~ msgstr "紫光"
+
+#~ msgid "Ziranma"
+#~ msgstr "自然碼"

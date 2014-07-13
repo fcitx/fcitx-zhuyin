@@ -1,0 +1,7 @@
+[InputMethod]
+UniqueName=zhuyin
+_Name=Bopomofo
+IconName=zhuyin
+Priority=1
+LangCode=zh_TW
+Parent=fcitx-zhuyin

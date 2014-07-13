@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# しろう, 2013
+# しろう, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: fcitx\n"
+"Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
+"POT-Creation-Date: 2014-07-13 02:07-0400\n"
+"PO-Revision-Date: 2013-08-07 15:07+0000\n"
+"Last-Translator: しろう\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/fcitx/language/"
+"ja/)\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: src/fcitx-zhuyin.desc:29
+msgid "Alt"
+msgstr "Alt"
+
+#: src/fcitx-zhuyin.desc:49 src/fcitx-zhuyin.desc:54 src/fcitx-zhuyin.desc:59
+#: src/fcitx-zhuyin.desc:64 src/fcitx-zhuyin.desc:69 src/fcitx-zhuyin.desc:74
+#: src/fcitx-zhuyin.desc:79 src/fcitx-zhuyin.desc:84 src/fcitx-zhuyin.desc:89
+#: src/fcitx-zhuyin.desc:94
+msgid "Ambiguity"
+msgstr "曖昧さ"
+
+#: src/fcitx-zhuyin.desc:85
+msgid "An <-> Ang"
+msgstr "An <-> Ang"
+
+#: src/eim.cpp:676 src/zhuyin.conf.in:3
+msgid "Bopomofo"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:50
+msgid "Ci <-> Chi"
+msgstr "Ci <-> Chi"
+
+#: src/fcitx-zhuyin.desc:28
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#: src/fcitx-zhuyin.desc:90
+msgid "En <-> Eng"
+msgstr "En <-> Eng"
+
+#: src/fcitx-zhuyin.desc:17
+msgid "Eten"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:18
+msgid "Eten26"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:70
+msgid "Fo <-> He"
+msgstr "Fo <-> He"
+
+#: src/fcitx-zhuyin.desc:80
+msgid "Ge <-> Ke"
+msgstr "Ge <-> Ke"
+
+#: src/fcitx-zhuyin.desc:16
+msgid "GinYieh"
+msgstr "GinYieh"
+
+#: src/fcitx-zhuyin.desc:19
+msgid "Hsu"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:21
+msgid "Hsu Dvorak"
+msgstr ""
+
+#: src/fcitx-zhuyin.desc:15
+msgid "IBM"
+msgstr "IBM"
+
+#: src/fcitx-zhuyin.desc:95
+msgid "In <-> Ing"
+msgstr "In <-> Ing"
+
+#: src/fcitx-zhuyin.desc:75
+msgid "Le <-> Ri"
+msgstr "Le <-> Ri"
+
+#: src/fcitx-zhuyin.conf.in:3
+msgid "LibPinyin"
+msgstr "LibPinyin"
+
+#: src/fcitx-zhuyin.conf.in:4
+msgid "LibPinyin Wrapper For Fcitx"
+msgstr "Fcitx 用 LibPinyin ラッパー"
+
+#: src/fcitx-zhuyin.desc:65
+msgid "Ne <-> Le"
+msgstr "Ne <-> Le"
+
+#: src/fcitx-zhuyin.desc:30
+msgid "Shift"
+msgstr "Shift"
+
+#: src/fcitx-zhuyin.desc:60
+msgid "Si <-> Shi"
+msgstr "Si <-> Shi"
+
+#: src/fcitx-zhuyin.desc:14
+msgid "Standard"
+msgstr "スタンダード"
+
+#: src/fcitx-zhuyin.desc:20
+#, fuzzy
+msgid "Standard Dvorak"
+msgstr "スタンダード"
+
+#: src/fcitx-zhuyin.desc:7
+msgid "Use Incomplete Zhuyin"
+msgstr "不完全な Zhuyin を使用"
+
+#: src/fcitx-zhuyin.desc:45
+msgid "Use Simplified Chinese Data for Zhuyin (Need Restart)"
+msgstr "Zhuyin で中国語簡体字のデータを使う (再起動が必要)"
+
+#: src/fcitx-zhuyin.desc:2
+msgid "Use Tone"
+msgstr "トーンを使う"
+
+#: src/fcitx-zhuyin.desc:1 src/fcitx-zhuyin.desc:6 src/fcitx-zhuyin.desc:11
+#: src/fcitx-zhuyin.desc:25 src/fcitx-zhuyin.desc:34 src/fcitx-zhuyin.desc:39
+#: src/fcitx-zhuyin.desc:44
+msgid "Zhuyin"
+msgstr "Zhuyin"
+
+#: src/fcitx-zhuyin.desc:12
+msgid "Zhuyin Layout"
+msgstr "Zhuyin レイアウト"
+
+#: src/fcitx-zhuyin.desc:40
+msgid "Zhuyin Next Page"
+msgstr "Zhuyin 次のページ"
+
+#: src/fcitx-zhuyin.desc:35
+msgid "Zhuyin Prev Page"
+msgstr "Zhuyin 前のページ"
+
+#: src/fcitx-zhuyin.desc:26
+#, fuzzy
+msgid "Zhuyin candidate choosing modifiers (Not used for Eten26)"
+msgstr "Zhuyin 候補選択の修飾キー"
+
+#: src/fcitx-zhuyin.desc:55
+msgid "Zi <-> Zhi"
+msgstr "Zi <-> Zhi"
+
+#~ msgid "%1% Downloaded."
+#~ msgstr "%1%ダウンロード済み。"
+
+#~ msgid "&Clear User Data"
+#~ msgstr "ユーザーデータを消去 (&C)"
+
+#~ msgid "&Import"
+#~ msgstr "インポート (&I)"
+
+#~ msgid "ABC"
+#~ msgstr "ABC"
+
+#~ msgid "Are you sure to delete %1?"
+#~ msgstr "本当に %1 を削除しますか?"
+
+#~ msgid "Art"
+#~ msgstr "芸術"
+
+#~ msgid "Bopomofo (LibPinyin)"
+#~ msgstr "Bopomofo (LibPinyin)"
+
+#~ msgid "Cannot connect to Fcitx by DBus, is Fcitx running?"
+#~ msgstr "FcitxにDBusでつなげません。Fcitxは動作していますか?"
+
+#~ msgid "Confirm deletion"
+#~ msgstr "削除の確認"
+
+#~ msgid "Convert failed."
+#~ msgstr "コンバートに失敗しました。"
+
+#~ msgid "Converter crashed."
+#~ msgstr "コンバーターがクラッシュしました。"
+
+#~ msgid "Copy file failed"
+#~ msgstr "ファイルコピー失敗"
+
+#~ msgid ""
+#~ "Copy file failed. Please check you have permission or disk is not full."
+#~ msgstr ""
+#~ "ファイルのコピーに失敗しました。権限やディスクがいっぱいでないかなどを確認"
+#~ "してください。"
+
+#~ msgid "Correction"
+#~ msgstr "修正"
+
+#~ msgid "Create temporary file failed."
+#~ msgstr "一時ファイルの作成に失敗しました。"
+
+#~ msgid "Culture"
+#~ msgstr "文化"
+
+#~ msgid "Dictionary"
+#~ msgstr "辞書"
+
+#~ msgid "Download Finished"
+#~ msgstr "ダウンロード完了"
+
+#~ msgid "Download started."
+#~ msgstr "ダウンロードを開始しました。"
+
+#~ msgid "ET"
+#~ msgstr "ET"
+
+#~ msgid "Economy"
+#~ msgstr "経済"
+
+#~ msgid "Error while deleting %1."
+#~ msgstr "%1 を削除中にエラーが起きました。"
+
+#~ msgid "Failed to create request."
+#~ msgstr "リクエストの作成に失敗しました。"
+
+#~ msgid "File Operation Failed"
+#~ msgstr "ファイル処理に失敗しました"
+
+#~ msgid "GN -> NG"
+#~ msgstr "GN -> NG"
+
+#~ msgid "Geology"
+#~ msgstr "地理"
+
+#~ msgid "History"
+#~ msgstr "歴史"
+
+#~ msgid "IOU -> IU"
+#~ msgstr "IOU -> IU"
+
+#~ msgid "Input Dictionary Name"
+#~ msgstr "辞書名を入力してください"
+
+#~ msgid "Life"
+#~ msgstr "生活"
+
+#~ msgid "MG -> NG"
+#~ msgstr "MG -> NG"
+
+#~ msgid "Manage Pinyin Dictionary"
+#~ msgstr "Pinyinディレクトリの管理"
+
+#~ msgid "Microsoft"
+#~ msgstr "Microsoft"
+
+#~ msgid "Nature"
+#~ msgstr "自然"
+
+#~ msgid "New Dictionary Name:"
+#~ msgstr "新しい辞書名:"
+
+#~ msgid "No browsing outside pinyin.sogou.com, now redirect to home page."
+#~ msgstr ""
+#~ "pinyin.sogou.com 以外は表示できません。ホームページにリダイレクトします。"
+
+#~ msgid "ON -> ONG"
+#~ msgstr "ON -> ONG"
+
+#~ msgid "Pinyin"
+#~ msgstr "Pinyin"
+
+#~ msgid "Pinyin (LibPinyin)"
+#~ msgstr "Pinyin (LibPinyin)"
+
+#~ msgid "PinyinJiaJia"
+#~ msgstr "PinyinJiaJia"
+
+#~ msgid "Rename failed."
+#~ msgstr "名前の変更に失敗しました。"
+
+#~ msgid "Scel file (*.scel)"
+#~ msgstr "Scel ファイル (*.scel)"
+
+#~ msgid "Science & Technology"
+#~ msgstr "科学技術"
+
+#~ msgid "Select Dictionary File"
+#~ msgstr "辞書ファイルの選択"
+
+#~ msgid "Shuangpin"
+#~ msgstr "Shuangpin"
+
+#~ msgid "Shuangpin (LibPinyin)"
+#~ msgstr "Shuangpin (LibPinyin)"
+
+#~ msgid "Shuangpin Scheme"
+#~ msgstr "Shuangpin スキーマー"
+
+#~ msgid "Society"
+#~ msgstr "社会"
+
+#~ msgid "Sport"
+#~ msgstr "スポーツ"
+
+#~ msgid "Temporary file created."
+#~ msgstr "一時ファイルを作成しました。"
+
+#~ msgid "UE -> VE"
+#~ msgstr "UE -> VE"
+
+#~ msgid "UEI -> UI"
+#~ msgstr "UEI -> UI"
+
+#~ msgid "UEN -> UN"
+#~ msgstr "UEN -> UN"
+
+#~ msgid "Use Incomplete pinyin"
+#~ msgstr "不完全なPinyinを使用"
+
+#~ msgid "Use Traditional Chinese Data for Pinyin and Shuangpin (Need Restart)"
+#~ msgstr "Pinyin に中国語繁体字のデータを使う (再起動が必要)"
+
+#~ msgid "V -> U"
+#~ msgstr "V -> U"
+
+#~ msgid "XiaoHe"
+#~ msgstr "XiaoHe"
+
+#~ msgid "ZiGuang"
+#~ msgstr "ZiGuang"
+
+#~ msgid "Ziranma"
+#~ msgstr "Ziranma"
