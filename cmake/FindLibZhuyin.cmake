@@ -29,18 +29,12 @@ find_library(LIBZHUYIN_LIBRARIES
              NAMES zhuyin
              HINTS ${PC_LIBZHUYIN_LIBDIR})
 
-find_program(LIBZHUYIN_GEN_BINARY_FILES gen_binary_files HINTS "${LIBZHUYIN_EXECPREFIX}/bin")
-find_program(LIBZHUYIN_GEN_UNIGRAM gen_unigram HINTS "${LIBZHUYIN_EXECPREFIX}/bin")
-find_program(LIBZHUYIN_IMPORT_INTERPOLATION import_interpolation HINTS "${LIBZHUYIN_EXECPREFIX}/bin")
 
 include(FindPackageHandleStandardArgs)
 find_package_handle_standard_args(LibZhuyin  DEFAULT_MSG
                                   LIBZHUYIN_LIBRARIES
                                   LIBZHUYIN_INCLUDE_DIR
                                   LIBZHUYIN_PKGDATADIR
-                                  LIBZHUYIN_GEN_BINARY_FILES
-                                  LIBZHUYIN_GEN_UNIGRAM
-                                  LIBZHUYIN_IMPORT_INTERPOLATION
                                   PC_LIBZHUYIN_FOUND
                                   )
 
