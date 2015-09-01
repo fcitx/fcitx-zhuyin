@@ -4,16 +4,16 @@
 #
 # Translators:
 # Alisha <alisha.4m@gmail.com>, 2012
-# Hiunn_Hue <hiunnhue108@ymail.com>, 2012
-# Xuetian Weng <wengxt@gmail.com>, 2012-2013
+# Gerald Du <frozenmouse@gmail.com>, 2015
+# Hiunn-hué <hiunnhue108@ymail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2014-07-13 02:07-0400\n"
-"PO-Revision-Date: 2013-06-28 04:09+0000\n"
-"Last-Translator: Xuetian Weng <wengxt@gmail.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/fcitx/"
+"POT-Creation-Date: 2015-09-01 16:57+0200\n"
+"PO-Revision-Date: 2015-08-16 07:49+0000\n"
+"Last-Translator: Gerald Du <frozenmouse@gmail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -54,11 +54,11 @@ msgstr "En <-> Eng"
 
 #: src/fcitx-zhuyin.desc:17
 msgid "Eten"
-msgstr ""
+msgstr "倚天"
 
 #: src/fcitx-zhuyin.desc:18
 msgid "Eten26"
-msgstr ""
+msgstr "倚天26"
 
 #: src/fcitx-zhuyin.desc:70
 msgid "Fo <-> He"
@@ -74,11 +74,11 @@ msgstr "精業"
 
 #: src/fcitx-zhuyin.desc:19
 msgid "Hsu"
-msgstr ""
+msgstr "許氏"
 
 #: src/fcitx-zhuyin.desc:21
 msgid "Hsu Dvorak"
-msgstr ""
+msgstr "許氏 Dvorak"
 
 #: src/fcitx-zhuyin.desc:15
 msgid "IBM"
@@ -117,9 +117,8 @@ msgid "Standard"
 msgstr "標準"
 
 #: src/fcitx-zhuyin.desc:20
-#, fuzzy
 msgid "Standard Dvorak"
-msgstr "標準"
+msgstr "標準 Dvorak"
 
 #: src/fcitx-zhuyin.desc:7
 msgid "Use Incomplete Zhuyin"
@@ -152,115 +151,9 @@ msgid "Zhuyin Prev Page"
 msgstr "注音上一頁"
 
 #: src/fcitx-zhuyin.desc:26
-#, fuzzy
 msgid "Zhuyin candidate choosing modifiers (Not used for Eten26)"
-msgstr "注音候選詞修飾鍵"
+msgstr "注音候選詞修飾鍵 (倚天26未使用)"
 
 #: src/fcitx-zhuyin.desc:55
 msgid "Zi <-> Zhi"
 msgstr "Zi <-> Zhi"
-
-#~ msgid "ABC"
-#~ msgstr "智能ABC"
-
-#~ msgid "Art"
-#~ msgstr "藝術"
-
-#~ msgid "Bopomofo (LibPinyin)"
-#~ msgstr "注音（LibPinyin）"
-
-#~ msgid "Correction"
-#~ msgstr "糾正"
-
-#~ msgid "Culture"
-#~ msgstr "文化"
-
-#~ msgid "Dictionary"
-#~ msgstr "辭典"
-
-#~ msgid "ET"
-#~ msgstr "倚天"
-
-#~ msgid "Economy"
-#~ msgstr "經濟"
-
-#~ msgid "GN -> NG"
-#~ msgstr "GN -> NG"
-
-#~ msgid "Geology"
-#~ msgstr "地質學"
-
-#~ msgid "History"
-#~ msgstr "歷史"
-
-#~ msgid "IOU -> IU"
-#~ msgstr "IOU -> IU"
-
-#~ msgid "Life"
-#~ msgstr "生活"
-
-#~ msgid "MG -> NG"
-#~ msgstr "MG -> NG"
-
-#~ msgid "Microsoft"
-#~ msgstr "微軟"
-
-#~ msgid "Nature"
-#~ msgstr "自然"
-
-#~ msgid "ON -> ONG"
-#~ msgstr "ON -> ONG"
-
-#~ msgid "Pinyin"
-#~ msgstr "拼音"
-
-#~ msgid "Pinyin (LibPinyin)"
-#~ msgstr "拼音（LibPinyin）"
-
-#~ msgid "PinyinJiaJia"
-#~ msgstr "拼音加加"
-
-#~ msgid "Science & Technology"
-#~ msgstr "科學技術"
-
-#~ msgid "Shuangpin"
-#~ msgstr "雙拼"
-
-#~ msgid "Shuangpin (LibPinyin)"
-#~ msgstr "雙拼（LibPinyin）"
-
-#~ msgid "Shuangpin Scheme"
-#~ msgstr "雙拼機制"
-
-#~ msgid "Society"
-#~ msgstr "社會"
-
-#~ msgid "Sport"
-#~ msgstr "運動"
-
-#~ msgid "UE -> VE"
-#~ msgstr "UE -> VE"
-
-#~ msgid "UEI -> UI"
-#~ msgstr "UEI -> UI"
-
-#~ msgid "UEN -> UN"
-#~ msgstr "UEN -> UN"
-
-#~ msgid "Use Incomplete pinyin"
-#~ msgstr "使用不完整拼音"
-
-#~ msgid "Use Traditional Chinese Data for Pinyin and Shuangpin (Need Restart)"
-#~ msgstr "拼音和雙拼使用正體中文資料 (需要重新啟動)"
-
-#~ msgid "V -> U"
-#~ msgstr "V -> U"
-
-#~ msgid "XiaoHe"
-#~ msgstr "小鶴"
-
-#~ msgid "ZiGuang"
-#~ msgstr "紫光"
-
-#~ msgid "Ziranma"
-#~ msgstr "自然碼"
