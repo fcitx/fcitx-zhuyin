@@ -547,7 +547,7 @@ INPUT_RETURN_VALUE FcitxZhuyinGetCandWords(void* arg)
         FcitxMessagesAddMessageAtLast(FcitxInputStateGetPreedit(input), MSG_INPUT, "%s", zhuyin->buf);
     }
 
-    zhuyin_guess_candidates(zhuyin->inst, LibPinyinGetOffset(zhuyin));
+    zhuyin_guess_candidates_after_cursor(zhuyin->inst, LibPinyinGetOffset(zhuyin));
     guint candidateLen = 0;
     zhuyin_get_n_candidate(zhuyin->inst, &candidateLen);
     for (guint i = 0 ; i < candidateLen; i ++) {

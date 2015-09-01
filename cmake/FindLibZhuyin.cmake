@@ -16,7 +16,7 @@ if(LIBZHUYIN_INCLUDE_DIR AND LIBZHUYIN_LIBRARIES)
 endif(LIBZHUYIN_INCLUDE_DIR AND LIBZHUYIN_LIBRARIES)
 
 find_package(PkgConfig REQUIRED)
-pkg_check_modules(PC_LIBZHUYIN "libzhuyin>=0.9.91")
+pkg_check_modules(PC_LIBZHUYIN "libzhuyin>=1.0.91")
 _pkgconfig_invoke("libzhuyin" PC_LIBZHUYIN LIBZHUYININCLUDEDIR "" "--variable=libzhuyinincludedir")
 _pkgconfig_invoke("libzhuyin" LIBZHUYIN PKGDATADIR "" "--variable=pkgdatadir")
 _pkgconfig_invoke("libzhuyin" LIBZHUYIN EXECPREFIX "" "--variable=exec_prefix")
