@@ -6,13 +6,14 @@
 # Alisha <alisha.4m@gmail.com>, 2012
 # Gerald Du <frozenmouse@gmail.com>, 2015
 # Hiunn-hué <hiunnhue108@ymail.com>, 2012
+# Jeff Huang <s8321414@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2015-09-01 16:57+0200\n"
-"PO-Revision-Date: 2015-08-16 07:49+0000\n"
-"Last-Translator: Gerald Du <frozenmouse@gmail.com>\n"
+"POT-Creation-Date: 2015-09-28 18:02+0200\n"
+"PO-Revision-Date: 2015-09-28 14:14+0000\n"
+"Last-Translator: Jeff Huang <s8321414@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/fcitx/fcitx/"
 "language/zh_TW/)\n"
 "Language: zh_TW\n"
@@ -38,7 +39,7 @@ msgstr "An <-> Ang"
 
 #: src/eim.cpp:676 src/zhuyin.conf.in:3
 msgid "Bopomofo"
-msgstr ""
+msgstr "ㄅㄆㄇㄈ"
 
 #: src/fcitx-zhuyin.desc:50
 msgid "Ci <-> Chi"
