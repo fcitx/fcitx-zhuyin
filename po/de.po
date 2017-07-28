@@ -4,13 +4,13 @@
 #
 # Translators:
 # mar well <marwell.1980@freenet.de>, 2013
-# mar well <m.wellendorf@gmx.de>, 2014
+# mar well <m.wellendorf@gmx.de>, 2014,2017
 msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-06-09 02:02-0700\n"
-"PO-Revision-Date: 2014-12-09 10:05+0000\n"
+"POT-Creation-Date: 2017-07-28 06:03-0700\n"
+"PO-Revision-Date: 2017-07-28 12:18+0000\n"
 "Last-Translator: mar well <m.wellendorf@gmx.de>\n"
 "Language-Team: German (http://www.transifex.com/fcitx/fcitx/language/de/)\n"
 "Language: de\n"
@@ -116,7 +116,7 @@ msgstr "Standard"
 
 #: src/fcitx-zhuyin.desc:20
 msgid "Standard Dvorak"
-msgstr ""
+msgstr "Standard Dvorak"
 
 #: src/fcitx-zhuyin.desc:7
 msgid "Use Incomplete Zhuyin"
