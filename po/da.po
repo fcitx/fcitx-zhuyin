@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-10-19 00:03-0700\n"
-"PO-Revision-Date: 2017-10-18 23:36+0000\n"
+"POT-Creation-Date: 2017-10-19 08:03-0700\n"
+"PO-Revision-Date: 2017-10-19 12:00+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
 "Language: da\n"
@@ -27,19 +27,19 @@ msgstr "Alt"
 #: src/fcitx-zhuyin.desc:79 src/fcitx-zhuyin.desc:84 src/fcitx-zhuyin.desc:89
 #: src/fcitx-zhuyin.desc:94
 msgid "Ambiguity"
-msgstr ""
+msgstr "Flertydighed"
 
 #: src/fcitx-zhuyin.desc:85
 msgid "An <-> Ang"
-msgstr ""
+msgstr "An <-> Ang"
 
 #: src/eim.cpp:676 src/zhuyin.conf.in:3
 msgid "Bopomofo"
-msgstr ""
+msgstr "Bopomofo"
 
 #: src/fcitx-zhuyin.desc:50
 msgid "Ci <-> Chi"
-msgstr ""
+msgstr "Ci <-> Chi"
 
 #: src/fcitx-zhuyin.desc:28
 msgid "Ctrl"
@@ -47,59 +47,59 @@ msgstr "Ctrl"
 
 #: src/fcitx-zhuyin.desc:90
 msgid "En <-> Eng"
-msgstr ""
+msgstr "En <-> Eng"
 
 #: src/fcitx-zhuyin.desc:17
 msgid "Eten"
-msgstr ""
+msgstr "Eten"
 
 #: src/fcitx-zhuyin.desc:18
 msgid "Eten26"
-msgstr ""
+msgstr "Eten26"
 
 #: src/fcitx-zhuyin.desc:70
 msgid "Fo <-> He"
-msgstr ""
+msgstr "Fo <-> He"
 
 #: src/fcitx-zhuyin.desc:80
 msgid "Ge <-> Ke"
-msgstr ""
+msgstr "Ge <-> Ke"
 
 #: src/fcitx-zhuyin.desc:16
 msgid "GinYieh"
-msgstr ""
+msgstr "GinYieh"
 
 #: src/fcitx-zhuyin.desc:19
 msgid "Hsu"
-msgstr ""
+msgstr "Hsu"
 
 #: src/fcitx-zhuyin.desc:21
 msgid "Hsu Dvorak"
-msgstr ""
+msgstr "Hsu Dvorak"
 
 #: src/fcitx-zhuyin.desc:15
 msgid "IBM"
-msgstr ""
+msgstr "IBM"
 
 #: src/fcitx-zhuyin.desc:95
 msgid "In <-> Ing"
-msgstr ""
+msgstr "In <-> Ing"
 
 #: src/fcitx-zhuyin.desc:75
 msgid "Le <-> Ri"
-msgstr ""
+msgstr "Le <-> Ri"
 
 #: src/fcitx-zhuyin.conf.in:3
 msgid "LibPinyin"
-msgstr ""
+msgstr "LibPinyin"
 
 #: src/fcitx-zhuyin.conf.in:4
 msgid "LibPinyin Wrapper For Fcitx"
-msgstr ""
+msgstr "LibPinyin-wrapper til Fcitx"
 
 #: src/fcitx-zhuyin.desc:65
 msgid "Ne <-> Le"
-msgstr ""
+msgstr "Ne <-> Le"
 
 #: src/fcitx-zhuyin.desc:30
 msgid "Shift"
@@ -107,50 +107,50 @@ msgstr "Shift"
 
 #: src/fcitx-zhuyin.desc:60
 msgid "Si <-> Shi"
-msgstr ""
+msgstr "Si <-> Shi"
 
 #: src/fcitx-zhuyin.desc:14
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: src/fcitx-zhuyin.desc:20
 msgid "Standard Dvorak"
-msgstr ""
+msgstr "Standard Dvorak"
 
 #: src/fcitx-zhuyin.desc:7
 msgid "Use Incomplete Zhuyin"
-msgstr ""
+msgstr "Brug ufuldstændig Zhuyin"
 
 #: src/fcitx-zhuyin.desc:45
 msgid "Use Simplified Chinese Data for Zhuyin (Need Restart)"
-msgstr ""
+msgstr "Brug forenklet kinesisk data til Zhuyin (kræver genstart)"
 
 #: src/fcitx-zhuyin.desc:2
 msgid "Use Tone"
-msgstr ""
+msgstr "Brug tone"
 
 #: src/fcitx-zhuyin.desc:1 src/fcitx-zhuyin.desc:6 src/fcitx-zhuyin.desc:11
 #: src/fcitx-zhuyin.desc:25 src/fcitx-zhuyin.desc:34 src/fcitx-zhuyin.desc:39
 #: src/fcitx-zhuyin.desc:44
 msgid "Zhuyin"
-msgstr ""
+msgstr "Zhuyin"
 
 #: src/fcitx-zhuyin.desc:12
 msgid "Zhuyin Layout"
-msgstr ""
+msgstr "Zhuyin-layout"
 
 #: src/fcitx-zhuyin.desc:40
 msgid "Zhuyin Next Page"
-msgstr ""
+msgstr "Zhuyin næste side"
 
 #: src/fcitx-zhuyin.desc:35
 msgid "Zhuyin Prev Page"
-msgstr ""
+msgstr "Zhuyin forrige side"
 
 #: src/fcitx-zhuyin.desc:26
 msgid "Zhuyin candidate choosing modifiers (Not used for Eten26)"
-msgstr ""
+msgstr "Zhuyin-kanditat vælger modifiere (bruges ikke til Eten26)"
 
 #: src/fcitx-zhuyin.desc:55
 msgid "Zi <-> Zhi"
-msgstr ""
+msgstr "Zi <-> Zhi"
