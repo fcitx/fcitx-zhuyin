@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2017-10-19 08:03-0700\n"
-"PO-Revision-Date: 2017-10-19 12:00+0000\n"
+"POT-Creation-Date: 2017-10-20 00:03-0700\n"
+"PO-Revision-Date: 2017-10-19 23:28+0000\n"
 "Last-Translator: scootergrisen\n"
 "Language-Team: Danish (http://www.transifex.com/fcitx/fcitx/language/da/)\n"
 "Language: da\n"
@@ -103,7 +103,7 @@ msgstr "Ne <-> Le"
 
 #: src/fcitx-zhuyin.desc:30
 msgid "Shift"
-msgstr "Shift"
+msgstr "Skift"
 
 #: src/fcitx-zhuyin.desc:60
 msgid "Si <-> Shi"
